@@ -50,7 +50,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                tech.meliora.mobi.reg.batch.App
+                                tech.meliora.sfc.he.java.io.App
                             </mainClass>
                         </manifest>
                     </archive>

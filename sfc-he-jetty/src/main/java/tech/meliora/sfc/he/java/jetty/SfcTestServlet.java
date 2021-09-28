@@ -36,7 +36,7 @@ public class SfcTestServlet extends HttpServlet {
             headersMap.put(headerKey, header);
 
             System.out.println(LocalDateTime.now() + "|ip: " + clientIpAddress + "|port: " + clientPort
-                    + "|key: " + headerKey + "|header: " + header + "|received a connection");
+                    + "|key: " + headerKey + "|header: " + header + "|header");
 
             stringBuilder.append("<p>").append(headerKey).append(":").append(header).append("</p>");
         }
