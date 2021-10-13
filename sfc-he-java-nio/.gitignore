@@ -48,6 +48,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
+*.iml
 # users can use this folder to store temp files
 tmp/

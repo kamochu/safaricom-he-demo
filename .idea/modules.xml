@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/safaricom-he-demo.iml" filepath="$PROJECT_DIR$/safaricom-he-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfc-he-java-io/sfc-he-java-io.iml" filepath="$PROJECT_DIR$/sfc-he-java-io/sfc-he-java-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfc-he-java-nio/sfc-he-java-nio.iml" filepath="$PROJECT_DIR$/sfc-he-java-nio/sfc-he-java-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfc-he-jetty/sfc-he-jetty.iml" filepath="$PROJECT_DIR$/sfc-he-jetty/sfc-he-jetty.iml" />
+    </modules>
+  </component>
+</project>

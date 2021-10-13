@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sfc-he-jetty" />
+        <module name="sfc-he-java-io" />
+        <module name="sfc-he-java-nio" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="safaricom-he-demo" target="1.7" />
+      <module name="sfc-he-java-io" target="8" />
+      <module name="sfc-he-java-nio" target="8" />
+      <module name="sfc-he-jetty" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
